@@ -1,3 +1,4 @@
+import type { Place } from '../api/Place'
 
 function LocationSearch() {
     return (
